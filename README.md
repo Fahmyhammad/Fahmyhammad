@@ -6,7 +6,8 @@
 - 🖌️ **HTML**  
 - 🎨 **CSS**  
 - 💻 **JavaScript**  
-- 📦 **Bootstrap**  
+- 📦 **Bootstrap**
+- 🧰 **GitHub** 
 
 ### ⚙️ Back-End Development  
 - 🛠️ **C#**  
@@ -16,7 +17,6 @@
 - ⚛️ **Blazor**  
 
 ### 🔧 Tools and Practices  
-- 🧰 **Git** for version control  
 - 📚 Currently learning advanced concepts:  
   - 🌍 **DDD** (Domain-Driven Design)  
   - 🔄 **CQRS** (Command Query Responsibility Segregation)  
