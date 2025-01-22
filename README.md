@@ -23,6 +23,12 @@
   - 📡 **MediatR** for clean architecture and request handling  
 
 ---
+## 💼 Experience  
+### 🏢 Talent Company (Internship)  
+- Worked on **real-life projects** that enhanced my technical and problem-solving skills.  
+- Collaborated with teams to develop **HR Management Systems** and other administrative tools.  
+- Gained hands-on experience in both **front-end** and **back-end development**.  
+---
 
 ## 🌟 My Focus  
 While I have experience in front-end development, my primary focus and expertise lie in **Back-End Development**.  
