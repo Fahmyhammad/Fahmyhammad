@@ -2,8 +2,8 @@
 
 # 👨‍💻 Software Engineer | .NET Developer  
 
-## 📍 Location: Cairo, Egypt  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+## 📍 Location: Egypt  
+🔗 [LinkedIn](https://www.linkedin.com/in/fahmy-hammad-6a0422230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
@@ -34,9 +34,9 @@
 ## 📊 **Most Used Languages**  
 ```plaintext
 C#          ████████████████████████  93.57%  
-HTML        ██                       3.74%  
-JavaScript  █                        1.49%  
-CSS         █                        1.21%
+HTML        ███████████████████                       70.74%  
+JavaScript  ██████████████                       40.49%  
+CSS         █████████████████                        60.21%
 
 ---
 ## 💼 Experience  
