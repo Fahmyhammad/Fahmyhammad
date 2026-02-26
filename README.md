@@ -1,45 +1,81 @@
 # 👋 Hi, I'm Fahmy Hammad  
+### 🧑‍💻 ASP.NET Core Backend Developer  
 
-# 👨‍💻 Software Engineer | .NET Developer  
-
-## 📍 Location: Egypt  
-🔗 [LinkedIn](https://www.linkedin.com/in/fahmy-hammad-6a0422230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-
----
-
-## 🛠️ **Languages & Tools**  
-
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat-square)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=flat-square)  
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-5C2D91?style=flat-square)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white&style=flat-square)  
+📍 Shebin El-Kom, Menoufia, Egypt  
+📧 fahmyroma690@gmail.com  
+📞 +01095565446  
+🔗 [LinkedIn](https://linkedin.com/in/fahmy-hammad-6a0422230)  
+🐙 [GitHub](https://github.com/Fahmyhammad)  
 
 ---
 
-### 🔧 Tools and Practices  
-- 📚 Currently learning advanced concepts:  
-  - 🌍 **DDD** (Domain-Driven Design)  
-  - 🔄 **CQRS** (Command Query Responsibility Segregation)  
-  - 📡 **MediatR** for clean architecture and request handling  
+## 📌 Summary  
+Backend-focused ASP.NET Core developer with hands-on experience building RESTful APIs, integrating authentication, and working on production systems. Skilled in Clean Architecture, Entity Framework Core, and SQL Server. Passionate about building scalable and maintainable backend solutions.
 
 ---
 
-## 💼 Experience  
-### 🏢 Talent Company (Internship)  
-- Worked on **real-life projects** that enhanced my technical and problem-solving skills.  
-- Collaborated with teams to develop **HR Management Systems** and other administrative tools.  
-- Gained hands-on experience in both **front-end** and **back-end development**.  
+## 🛠️ Tech Stack  
+**Backend:**  
+- ASP.NET Core | C# | .NET 6/8  
+- RESTful APIs | SignalR | Web APIs  
+- Entity Framework Core | SQL Server  
+- JWT | Role-Based Authorization  
+- Clean Architecture | Repository Pattern | Dependency Injection  
+
+**Frontend Basics:**  
+- HTML | CSS | Bootstrap  
+- JavaScript (basic) | Angular (API consumption)  
+
+**Tools:**  
+- Git | GitHub  
+- Visual Studio | Rider  
+- SQL Server Management Studio  
+
 ---
 
-## 📊 **Most Used Languages**  
+## 💼 Professional Experience  
+**Backend .NET Developer – Nplanet** *(Part-time)*  
+*Nov 2024 – Present | Alexandria, Egypt*  
+- Developed and maintained RESTful APIs using ASP.NET Core  
+- Implemented database operations with EF Core and SQL Server  
+- Focused on API performance and data consistency  
 
-```plaintext
-C#          ████████████████████████  93.57%  
-HTML        ███████████████████       70.74%  
-JavaScript  ██████████████            40.49%  
-CSS         █████████████████         60.21%  
+**Backend .NET Developer – Talent** *(Part-time)*  
+*Sep 2024 – May 2025*  
+- Built REST APIs for internal systems and mobile apps  
+- Implemented authentication and role-based access  
+
+**Freelance Backend .NET Developer**  
+*2025 – Present*  
+- Built backend APIs for UAE-based service platforms  
+- Handled auth, role-based access, and VPS deployment  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 Ankh Platform – *Car Marketplace*  
+- Multi-role backend (Clients, Marketers, Inspectors, Admins)  
+- Real-time chat via SignalR  
+- Points-based commission system + wallets & reviews  
+- Full admin dashboard  
+
+### 🔹 Glocal Solutions – *Consultation Booking*  
+- Booking system with country/service-based logic  
+- Integrated payment processing  
+- Role-based access for clients & consultants  
+
+### 🔹 Yumina Platform – *Workforce Management*  
+- MVC-based agent onboarding & interview scheduling  
+- Zoom API integration for interviews  
+- Shift scheduling and contract management  
+
+---
+
+## 🌐 Languages  
+- **Arabic** – Native  
+- **English** – Good (reading, writing, speaking)  
+
+---
+
+📫 Feel free to reach out for collaboration or opportunities!
