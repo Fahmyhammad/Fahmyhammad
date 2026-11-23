@@ -1,16 +1,38 @@
-# 👋 Hi, I'm Fahmy Hammad  
-### 🧑‍💻 ASP.NET Core Backend Developer  
+# Hi, I'm Fahmy Hammad
+
+### ASP.NET Core Backend Developer
+
+I build backend APIs with C# and ASP.NET Core, using Entity Framework Core, SQL Server and Redis. My projects explore layered architecture, product catalog APIs and inventory management.
+
+## Selected projects
+
+### [Ecommerce API](https://github.com/Fahmyhammad/Ecommerce-App.NET-8-Angular)
+A .NET 8 backend for a product catalog and shopping basket.
+
+- Product search, category filtering, sorting and pagination.
+- Product image management and Redis-backed baskets.
+- API, Core and Infrastructure projects with EF Core, AutoMapper and Swagger.
+
+### [CraftIQ Inventory API](https://github.com/Fahmyhammad/CraftIQ.Inventory.API)
+An inventory-management backend project with category CRUD endpoints.
+
+- Separate API, Core, Infrastructure, Services and Shared projects.
+- Category services, contracts and query specifications.
+- ASP.NET Core, Entity Framework Core and SQL Server.
+
+## Main tools
+
+C# · ASP.NET Core · Entity Framework Core · SQL Server · Redis · Git
+
+## Explore the code
+
+The repositories above show how I organize API endpoints, data access and application models.
 
 📍 Shebin El-Kom, Menoufia, Egypt  
 📧 fahmyroma690@gmail.com  
 📞 +01095565446  
 🔗 [LinkedIn](https://linkedin.com/in/fahmy-hammad-6a0422230)  
-🐙 [GitHub](https://github.com/Fahmyhammad)  
-
----
-
-## 📌 Summary  
-Backend-focused ASP.NET Core developer with hands-on experience building RESTful APIs, integrating authentication, and working on production systems. Skilled in Clean Architecture, Entity Framework Core, and SQL Server. Passionate about building scalable and maintainable backend solutions.
+🐙 [GitHub](https://github.com/Fahmyhammad)
 
 ---
 
