@@ -57,7 +57,7 @@ The repositories above show how I organize API endpoints, data access and applic
 
 ## 💼 Professional Experience  
 **Backend .NET Developer – Nplanet** *(Part-time)*  
-*Nov 2024 – Present | Alexandria, Egypt*  
+*Mar 2025 – Jan 2026 | Alexandria, Egypt*  
 - Developed and maintained RESTful APIs using ASP.NET Core  
 - Implemented database operations with EF Core and SQL Server  
 - Focused on API performance and data consistency  
